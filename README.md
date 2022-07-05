@@ -23,7 +23,7 @@ This is a simple Neural Network library made for learning purposes
 ``NeuralNetwork.predict(input)`` returns the prediction of the model based on the input
 
 #### Loss Functions
-Currently, there is only one builtin loss function, the mean squared error ``mse(x)``
+Currently, there is only one builtin loss function, the mean squared error ``mse(ans, y)``
 
 ## Usage
 
